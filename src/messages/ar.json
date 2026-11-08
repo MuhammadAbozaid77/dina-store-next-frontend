@@ -1,0 +1,62 @@
+{
+  "account": {
+    "logout": "تسجيل الخروج",
+    "welcome": "مرحباً بك في حسابك",
+    "accountDetails": "بيانات الحساب ",
+    "accountDetailsDesc": "إدارة بياناتك الشخصية",
+    "accountOrders": "طلباتي",
+    "accountOrdersDesc": "متابعة جميع طلباتك",
+    "accountSetting": "إعدادات الحساب",
+    "accountSettingDesc": "تغيير بيانات الدخول والأمان"
+  },
+  "HomePage": {
+    "title": "أهلاً بيك في موقعنا",
+    "description": "متجرنا بيقدم لك أفضل المنتجات"
+  },
+  "Navbar": {
+    "brand": "لمسة",
+    "new": "جديدنا",
+    "clothing": "الملابس",
+    "abayas": "العبايات",
+    "beauty": "الجمال",
+    "care": "العناية",
+    "search": "ابحثي عن منتج...",
+    "changeLanguage": "تغيير اللغة",
+    "account": "حسابي",
+    "favorites": "المفضلة",
+    "cart": "سلة التسوق",
+    "openMenu": "فتح القائمة",
+    "closeMenu": "إغلاق القائمة"
+  },
+  "Footer": {
+    "brand": "لمسة",
+    "brandDescription": "اكتشفي أحدث صيحات الموضة والملابس الحريمي، واختاري إطلالتك المميزة من مجموعتنا.",
+    "newsletterTitle": "خليكي دايمًا على اطلاع",
+    "newsletterDescription": "اشتركي في قائمتنا البريدية علشان يوصلك كل جديد وعروضنا الحصرية.",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "subscribe": "اشتركي الآن",
+    "shop": "تسوقي",
+    "newArrivals": "وصل حديثًا",
+    "clothing": "الملابس",
+    "abayas": "العبايات",
+    "beauty": "مستحضرات التجميل",
+    "care": "العناية الشخصية",
+    "help": "المساعدة",
+    "contactUs": "تواصلي معنا",
+    "faq": "الأسئلة الشائعة",
+    "shipping": "الشحن والتوصيل",
+    "returns": "الاستبدال والاسترجاع",
+    "trackOrder": "تتبّع الطلب",
+    "about": "عن المتجر",
+    "ourStory": "قصتنا",
+    "privacy": "سياسة الخصوصية",
+    "terms": "الشروط والأحكام",
+    "customerService": "خدمة العملاء",
+    "emailUs": "راسلينا",
+    "location": "موقعنا",
+    "locationDescription": "مصر",
+    "home": "مصر",
+    "contact": "مصر",
+    "copyright": "جميع الحقوق محفوظة."
+  }
+}

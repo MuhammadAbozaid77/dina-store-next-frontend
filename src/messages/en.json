@@ -1,0 +1,50 @@
+{
+  "HomePage": {
+    "title": "Welcome to our website",
+    "description": "Our store offers you the best products"
+  },
+  "Navbar": {
+    "brand": "Lamsa",
+    "new": "New Arrivals",
+    "clothing": "Clothing",
+    "abayas": "Abayas",
+    "beauty": "Beauty",
+    "care": "Personal Care",
+    "search": "Search for a product...",
+    "changeLanguage": "Change language",
+    "account": "My Account",
+    "favorites": "Favorites",
+    "cart": "Shopping Cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "Footer": {
+    "brand": "Lamsa",
+    "brandDescription": "Discover the latest fashion trends and women's clothing. Find your perfect look with our collection.",
+    "newsletterTitle": "Stay in the loop",
+    "newsletterDescription": "Subscribe to our newsletter for the latest arrivals and exclusive offers.",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "shop": "Shop",
+    "newArrivals": "New Arrivals",
+    "clothing": "Clothing",
+    "abayas": "Abayas",
+    "beauty": "Beauty & Makeup",
+    "care": "Personal Care",
+    "help": "Help & Support",
+    "contactUs": "Contact Us",
+    "faq": "FAQs",
+    "shipping": "Shipping & Delivery",
+    "returns": "Returns & Exchanges",
+    "trackOrder": "Track Your Order",
+    "about": "About Us",
+    "ourStory": "Our Story",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "customerService": "Customer Service",
+    "emailUs": "Email Us",
+    "location": "Our Location",
+    "locationDescription": "Egypt",
+    "copyright": "All rights reserved."
+  }
+}
